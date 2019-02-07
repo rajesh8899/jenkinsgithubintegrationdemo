@@ -1,3 +1,4 @@
-echo "This is sample repo for jenkins-github integration demo , BY RAJESH PRASAD"
+ echo "This is sample repo for jenkins-github integration demo , BY RAJESH PRASAD"
+ echo "Second Run by RP"
 
 Testing email notification
